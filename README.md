@@ -7,11 +7,11 @@ Repository for WOAH paper **"StereoKG: Data-Driven Knowledge Graph Construction 
 Software:
 
 <code>
-PRAW <br/>
-NLTK <br/>
-PyTorch <br/>
-SimpleTransformers <br/>
-HuggingFace Transformers <br/>
+    PRAW
+    NLTK
+    PyTorch
+    SimpleTransformers
+    HuggingFace Transformers
 </code> <br/>
 
 ---
@@ -38,10 +38,10 @@ The question templates are stored for each entity in the ``questions`` folder. F
 The extracted questions are inherently converted to sentences and stored in the filepath specified in ``Credentials.py``.
 
 <code>
-germans are obsessed with the wednesday frog meme <br/>
-indians are inherently happy <br/>
-christians are supporting donald trump <br/>
-Muslim women wear burkha <br/>
+    germans are obsessed with the wednesday frog meme <br/>
+    indians are inherently happy <br/>
+    christians are supporting donald trump <br/>
+    Muslim women wear burkha <br/>
 </code> <br/>
 
 ### (2) Fast clustering
