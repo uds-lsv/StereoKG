@@ -4,7 +4,7 @@ https://github.com/Aunsiels/CSK/tree/master/quasimodo
 """
 
 import os
-import statement_from_question as q2s
+import question_to_statement as q2s
 import inflect
 inflect=inflect.engine()
 
